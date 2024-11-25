@@ -6,4 +6,8 @@ config.mongoURI = {
     development: 'mongodb+srv://felixnahor2:@F27920459f@fncluster.8at95.mongodb.net/?retryWrites=true&w=majority&appName=FNCluster',
     test: 'mongodb+srv://felixnahor2:@F27920459f@fncluster.8at95.mongodb.net/?retryWrites=true&w=majority&appName=FNCluster',
 }
+<<<<<<< HEAD
 module.exports = config;
+=======
+module.exports = config;
+>>>>>>> origin/master
